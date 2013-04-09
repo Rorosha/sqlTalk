@@ -1,4 +1,5 @@
-sqlTalk
-=======
+# ORM Talk for PySprings
 
-Presentation for PySprings on ORM's
+Requires the sinatra app Showoff. 
+
+Once that's installed, simply run `showoff serve`

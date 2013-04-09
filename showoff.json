@@ -1,0 +1,14 @@
+{
+  "name": "ORM Basics",
+  "description": "tl:dr of code and databases",
+  "author": "Mike",
+  "pause_msg": "Just a sec...",
+  "sections": [
+    {"section": "definitions"},
+    {"section": "history"},
+    {"section": "gen_purpose"},
+    {"section": "simple_example"},
+    {"section": "sqlalchemy"},
+    {"section": "nimble"}
+  ]
+}
