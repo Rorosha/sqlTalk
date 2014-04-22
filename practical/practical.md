@@ -2,7 +2,7 @@
 
 # Practical
 
-Now onto some code. Clone this repository: https://githun.com/Rorosha/sqlApp
+Now onto some code. Clone this repository: https://github.com/Rorosha/sqlApp.git
 
 <!SLIDE bullets>
 
