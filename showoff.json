@@ -4,11 +4,14 @@
   "author": "Mike",
   "pause_msg": "Just a sec...",
   "sections": [
+    {"section": "intro"},
+    {"section": "background"},
     {"section": "definitions"},
     {"section": "history"},
     {"section": "gen_purpose"},
     {"section": "simple_example"},
     {"section": "sqlalchemy"},
-    {"section": "nimble"}
+    {"section": "practical"},
+    {"section": "conclusion"}
   ]
 }

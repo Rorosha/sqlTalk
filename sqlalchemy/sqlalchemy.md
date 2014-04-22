@@ -15,11 +15,11 @@
 
 * _Core_
 
-  "The Core is itself a fully featured SQL abstraction toolkit, providing a smooth layer of abstraction over a wide variety of DBAPI implementations"
+*  "The Core is itself a fully featured SQL abstraction toolkit, providing a smooth layer of abstraction over a wide variety of DBAPI implementations"
 
 * _ORM_
 
-  "The Object Relational Mapper is then an optional package which builds upon the Core"
+*  "The Object Relational Mapper is then an optional package which builds upon the Core"
  
 <!SLIDE code monospace transition=wipe>
 

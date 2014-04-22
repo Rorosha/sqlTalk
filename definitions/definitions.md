@@ -1,8 +1,3 @@
-<!SLIDE>
-
-# ORM Basics:
-## Or, a tl:dr on code and databases
-
 <!SLIDE bullets incremental transition=fade>
 
 # Overview
